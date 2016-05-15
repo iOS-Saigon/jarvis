@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: iOS Saigon
+title: Jarvis
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  iOS Saigon
+  Your personal assistant for movie sessions
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ios-saigon.github.io" # the base hostname & protocol for your site
+url: "http://www.meetjarvis.co" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
