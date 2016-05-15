@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Your personal assistant for movie sessions
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ios-saigon.github.io/jarvis" # the base hostname & protocol for your site
+url: "http://ios-saigon.github.io/jarvis/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
