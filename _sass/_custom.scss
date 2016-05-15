@@ -15,7 +15,7 @@ body {
 }
 
 .page-content {
-	@include vertical-align();
+	// @include vertical-align();
 	text-align: center;
 	// min-height: 800px;
 }
@@ -24,7 +24,7 @@ body {
 	// margin-top: 20%;
 	// margin-bottom: 20%;
 	color: white;
-	font-size: $size-plus-5;
+	font-size: $size-plus-3;
 	font-weight: 100;
 }
 
